@@ -21,8 +21,7 @@ public class BLAST {
 		List<String> queries = query.readData();
 		for(String s : queries)
 		{
-			startIndex
-			System.out.println(data.query(subQuery));
+			///
 		}
 		
 		
